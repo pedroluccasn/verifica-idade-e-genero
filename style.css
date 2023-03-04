@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+  background-color: skyblue;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background-color: white;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px black;
+}
+
+div {
+  padding: 5px;
+}
+
+#foto {
+  border-radius: 50%;
+}
+
+footer {
+  color: white;
+  font-style: italic;
+  text-align: center;
+}
